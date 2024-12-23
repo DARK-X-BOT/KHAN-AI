@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "v6QCiQjJ#P0oogfOpaHr9xte4MRWOAzRPptFZ7E-kZrvj9GuDth8",
+SESSION_ID: process.env.SESSION_ID || "KrxFDJxC#13_PM5IlJd3bl4Pmv-BW1oLYoDXoeldyLJ3XGDJpQE0",
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
@@ -13,15 +13,15 @@ BOT_NAME: process.env.BOT_NAME || "KHAN-AI",
 // add bot namw here for menu
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "92342758XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "94785871303",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://bit.ly/4gsjt7A",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *KHAN-AI*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> HI ALIVE NOW",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
